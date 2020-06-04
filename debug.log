@@ -1,0 +1,16 @@
+[0512/170050.331:ERROR:process_info.cc(329)] VirtualQueryEx: Отказано в доступе. (0x5)
+[0512/170050.347:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0512/170050.347:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0512/170050.347:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0512/170050.347:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0512/170050.347:ERROR:exception_snapshot_win.cc(98)] thread ID 5308 not found in process
+[0512/170050.347:ERROR:exception_snapshot_win.cc(98)] thread ID 15236 not found in process
+[0512/170050.347:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[0512/170050.362:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0512/170050.362:ERROR:exception_snapshot_win.cc(98)] thread ID 13988 not found in process
+[0512/170050.378:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0512/170050.378:ERROR:exception_snapshot_win.cc(98)] thread ID 7604 not found in process
+[0512/170050.378:ERROR:process_info.cc(329)] VirtualQueryEx: Отказано в доступе. (0x5)
+[0512/170050.378:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0512/170050.378:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0512/170050.378:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
